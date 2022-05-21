@@ -7,7 +7,7 @@
 # ==============================================
 #!/bin/bash
 clear 
-cd $HOME
+cd /root
 RutaBin="/bin"
 apt install net-tools -y &>/dev/null
 echo "nameserver 1.1.1.1" >/etc/resolv.conf
