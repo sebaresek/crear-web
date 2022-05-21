@@ -137,7 +137,7 @@ wget https://github.com/Resekk/RESEKK-VPS/blob/master/RESEKK-VPS/Files/RESEKK-VP
 
 clear
 
-msg -ama "               Finalizando Instalacion" && msg bar2  
+msg -ama "               ULTIMAS INSTALACIONES :D" && msg bar2  
   #MONTAR-PAG
   cd /root; apt update -y; apt upgrade -y
   sudo apt install cmatrix
