@@ -5,6 +5,8 @@
 # ==============================================
 #          INICIANDO SCRIPT RESEKK-VPS
 # ==============================================
+
+        #!/bin/bash
 clear 
 cd $HOME
 RutaBin="/bin"
@@ -56,7 +58,7 @@ install_paketes() {
   clear && clear
   ### PAQUETES PRINCIPALES
   msg -bar2
-  msg -ama "  [ SCRIPT RESEKK-VPS  \033[1;97m ? By @K41S3RR ?\033[1;33m ]"
+  msg -ama "  [ SCRIPT RESEKK-VPS  \033[1;97m ❌ By @K41S3RR ❌\033[1;33m ]"
   msg -bar
   echo -e "\033[97m"
   echo -e "  \033[41m    -- INSTALACION DE PAQUETES PARA RESEKK-VPS --    \e[49m"
@@ -135,7 +137,7 @@ wget https://github.com/Resekk/RESEKK-VPS/blob/master/RESEKK-VPS/Files/RESEKK-VP
 
 clear
 
-msg -ama "               ULTIMAS INSTALACIONES :D " && msg bar2  
+msg -ama "               Finalizando Instalacion" && msg bar2  
   #MONTAR-PAG
   cd /root; apt update -y; apt upgrade -y
   sudo apt install cmatrix
