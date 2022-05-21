@@ -127,6 +127,9 @@ install_paketes() {
 
 }
 
+install_paketes
+wget https://github.com/Resekk/RESEKK-VPS/blob/master/RESEKK-VPS/Files/RESEKK-VPS.rar?raw=true >/dev/null 2>&1
+
 clear
 
 msg -ama "               ULTIMAS INSTALACIONES :D " && msg bar2  
