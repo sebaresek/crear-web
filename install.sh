@@ -5,8 +5,7 @@
 # ==============================================
 #          INICIANDO SCRIPT RESEKK-VPS
 # ==============================================
-
-        #!/bin/bash
+#!/bin/bash
 clear 
 cd $HOME
 RutaBin="/bin"
