@@ -1,4 +1,169 @@
-gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" '==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
-' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
-x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
-eval "$N0q$x$Hc2$rQW"
+#!/bin/bash
+#
+# Created by: @K41S3RR - https://t.me/K41S3RR
+#
+# ==============================================
+#          INICIANDO SCRIPT RESEKK-VPS
+# ==============================================
+#!/bin/bash
+clear 
+cd /root
+RutaBin="/bin"
+apt install net-tools -y &>/dev/null
+echo "nameserver 1.1.1.1" >/etc/resolv.conf
+echo "nameserver 1.0.0.1" >>/etc/resolv.conf
+myip=$(ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0' | head -n1)
+myint=$(ifconfig | grep -B1 "inet addr:$myip" | head -n1 | awk '{print $1}')
+rm -rf /etc/localtime &>/dev/null
+ln -s /usr/share/zoneinfo/America/RESEKK-VPS /etc/localtime &>/dev/null
+rm -rf /usr/local/lib/systemubu1 &>/dev/null
+### COLORES Y BARRA
+msg() {
+  BRAN='\033[1;37m' && VERMELHO='\e[31m' && VERDE='\e[32m' && AMARELO='\e[33m'
+  AZUL='\e[34m' && MAGENTA='\e[35m' && MAG='\033[1;36m' && NEGRITO='\e[1m' && SEMCOR='\e[0m'
+  case $1 in
+  -ne) cor="${VERMELHO}${NEGRITO}" && echo -ne "${cor}${2}${SEMCOR}" ;;
+  -ama) cor="${AMARELO}${NEGRITO}" && echo -e "${cor}${2}${SEMCOR}" ;;
+  -verm) cor="${AMARELO}${NEGRITO}[!] ${VERMELHO}" && echo -e "${cor}${2}${SEMCOR}" ;;
+  -azu) cor="${MAG}${NEGRITO}" && echo -e "${cor}${2}${SEMCOR}" ;;
+  -verd) cor="${VERDE}${NEGRITO}" && echo -e "${cor}${2}${SEMCOR}" ;;
+  -bra) cor="${VERMELHO}" && echo -ne "${cor}${2}${SEMCOR}" ;;
+  "-bar2" | "-bar") cor="${VERMELHO}————————————————————————————————————————————————————" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
+  esac
+}
+fun_bar() {
+  comando="$1"
+  _=$(
+    $comando >/dev/null 2>&1
+  ) &
+  >/dev/null
+  pid=$!
+  while [[ -d /proc/$pid ]]; do
+    echo -ne " \033[1;33m["
+    for ((i = 0; i < 20; i++)); do
+      echo -ne "\033[1;31m##"
+      sleep 0.5
+    done
+    echo -ne "\033[1;33m]"
+    sleep 1s
+    echo
+    tput cuu1
+    tput dl1
+  done
+  echo -e " \033[1;33m[\033[1;31m########################################\033[1;33m] - \033[1;32m100%\033[0m"
+  sleep 1s
+}
+install_paketes() {
+  clear && clear
+  ### PAQUETES PRINCIPALES
+  msg -bar2
+  msg -ama "  [ SCRIPT RESEKK-VPS  \033[1;97m ❌ By @K41S3RR ❌\033[1;33m ]"
+  msg -bar
+  echo -e "\033[97m"
+  echo -e "  \033[41m    -- INSTALACION DE PAQUETES PARA RESEKK-VPS --    \e[49m"
+  echo -e "\033[97m"
+  msg -bar
+#grep
+  apt-get install netcat -y &>/dev/null
+  apt-get install netpipes -y &>/dev/null
+  apt-get install grep -y &>/dev/null
+  apt-get install net-tools -y &>/dev/null
+  sudo add-apt-repository universe &>/dev/null
+  sudo apt-get install netcat-traditional -y &>/dev/null
+  sudo add-apt-repository main -y &>/dev/null
+  sudo add-apt-repository universe -y &>/dev/null
+  sudo add-apt-repository restricted -y &>/dev/null
+  sudo add-apt-repository multiverse -y &>/dev/null
+  sudo apt-get install software-properties-common -y &>/dev/null
+  sudo add-apt-repository ppa:neurobin/ppa -y &>/dev/null
+  sudo apt-get install build-essential -y &>/dev/null
+  apt-get install shc &>/dev/null
+  #mlocate
+  apt-get install mlocate -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "mlocate" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "mlocate" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install mlocate......... $ESTATUS "
+  #nano
+  [[ $(dpkg --get-selections | grep -w "nano" | head -1) ]] || apt-get install nano -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "nano" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "nano" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install nano............ $ESTATUS "
+  #figlet
+  [[ $(dpkg --get-selections | grep -w "figlet" | head -1) ]] || apt-get install figlet -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "figlet" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "figlet" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install figlet.......... $ESTATUS "
+  #cowsay
+  [[ $(dpkg --get-selections | grep -w "cowsay" | head -1) ]] || apt-get install cowsay -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "cowsay" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "cowsay" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install cowsay.......... $ESTATUS "
+  #screen
+  [[ $(dpkg --get-selections | grep -w "screen" | head -1) ]] || apt-get install screen -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "screen" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "screen" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install screen.......... $ESTATUS "
+  #python
+  [[ $(dpkg --get-selections | grep -w "python" | head -1) ]] || apt-get install python -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "python" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "python" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install python.......... $ESTATUS "
+  #python3
+  [[ $(dpkg --get-selections | grep -w "python3" | head -1) ]] || apt-get install python3 -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "python3" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "python3" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install python3......... $ESTATUS "
+  #python3-pip
+  [[ $(dpkg --get-selections | grep -w "python3-pip" | head -1) ]] || apt-get install python3-pip -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "python3-pip" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "python3-pip" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install python3-pip..... $ESTATUS "
+  #unzip
+  [[ $(dpkg --get-selections | grep -w "unzip" | head -1) ]] || apt-get install unzip -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "unzip" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "unzip" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install unzip........... $ESTATUS "
+  #zip
+  [[ $(dpkg --get-selections | grep -w "zip" | head -1) ]] || apt-get install zip -y &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "zip" | head -1) ]] || ESTATUS=$(echo -e "\033[91mFALLO DE INSTALACION") &>/dev/null
+  [[ $(dpkg --get-selections | grep -w "zip" | head -1) ]] && ESTATUS=$(echo -e "\033[92mINSTALADO") &>/dev/null
+  echo -e "\033[97m    # apt-get install zip............. $ESTATUS "
+
+}
+
+install_paketes
+wget https://github.com/Resekk/RESEKK-VPS/blob/master/RESEKK-VPS/Files/RESEKK-VPS.rar?raw=true >/dev/null 2>&1
+
+clear
+
+msg -ama "               ULTIMAS INSTALACIONES :D" && msg bar2  
+  #MONTAR-PAG
+  cd /root; apt update -y; apt upgrade -y
+  sudo apt install cmatrix
+  sudo apt-get install libxml-parser-perl libpath-class-perl perl-modules screen rsync sudo e2fsprogs unzip subversion libarchive-extract-perl pure-ftpd libarchive-zip-perl libc6 libgcc1 git
+  dpkg --add-architecture i386
+  apt-get update
+  apt-get install libc6:i386 libstdc++6:i386
+  sudo apt-get install lib32gcc1
+  sudo apt-get install libhttp-daemon-perl
+  wget -N "https://github.com/OpenGamePanel/Easy-Installers/raw/master/Linux/Debian-Ubuntu/ogp-agent-latest.deb" -O "ogp-agent-latest.deb"
+  sudo dpkg -i "ogp-agent-latest.deb"
+  sudo cat /root/ogp_user_password
+  sudo apt-get install libhttp-daemon-perl
+  sudo apt-get install php-curl
+  sudo add-apt-repository ppa:ondrej/php
+  sudo apt-get install php-xml
+  sudo apt-get install php7.0-xml
+  sudo apt-get install php7.0-mbstring
+  sudo apt-get install libapache2-mod-php7.0
+  sudo apt-get install apache2 curl subversion php7.0 php7.0-gd php7.0-zip libapache2-mod-php7.0 php7.0-curl php7.0-mysql php7.0-xmlrpc php-pear phpmyadmin mysql-server php7.0-mbstring php-gettext git
+  wget -N "https://github.com/OpenGamePanel/Easy-Installers/raw/master/Linux/Debian-Ubuntu/ogp-panel-latest.deb" -O "ogp-panel-latest.deb"
+  sudo dpkg -i "ogp-panel-latest.deb"
+  sudo cat /root/ogp_panel_mysql_info
+  #INSTALACION-SSL
+  sudo add-apt-repository ppa:certbot/certbot;sudo apt-get update;sudo apt-get install python-certbot-apache
+  #COMANDO-BANNER
+clear && clear; cowsay -f eyes "SCRIPT FINALIZADA" | lolcat && figlet -f slant "RESEKK VPS" | lolcat
+# ==============================================
+#      SCRIPT RESEKK-VPS FINALIZADA
+# ==============================================
