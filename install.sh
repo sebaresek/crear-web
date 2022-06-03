@@ -162,6 +162,8 @@ msg -ama "               ULTIMAS INSTALACIONES :D" && msg bar2
   sudo cat /root/ogp_panel_mysql_info
   #INSTALACION-SSL
   sudo add-apt-repository ppa:certbot/certbot;sudo apt-get update;sudo apt-get install python-certbot-apache
+  # ==============================================
+cd /etc/apache2/sites-available; nano 000-default.conf
   #COMANDO-BANNER
 clear && clear; cowsay -f eyes "SCRIPT FINALIZADA" | lolcat && figlet -f slant "RESEKK VPS" | lolcat
 # ==============================================
