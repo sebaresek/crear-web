@@ -1,4 +1,113 @@
-gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" '==gCKkXZrRXdw5WaKkXZrRmblNnCzVWaj5WZk5WZwVGZK0TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90DIjowcu9Wa0Nmb1ZEIn5WayFGbjVGRgACIgACIgACIgACIgAyIK0TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90DIjoASTlkTJZ0IKMmcoNXYi5yL092by9CIjJHazFmYu4CI21GI7MmcoNXYi5iLgg3KgQ2bth2YgszYyh2chJmLu8ibpFWbvIXZu5WYi9yalNXZyFmYlN3Lt92YuQnblRnbvNmclNXdiVHa0l2ZucXYy9yL6MHc0RHagQXZndnCyFWZsNGImYCIyFWZsNmC9pQamBCIgAiC5V2a0VHculGIgACIgACIgoAZhVmcgACIgACIgAiC9VGdph2d7RiIhIVQU5URU5USFJFIBJVQQBiUFRlTFBSRTxUVQd4yi03dvxGbll3ekASZtAyboNWZgACIgACIgAiCiICIl1CIvh2YlBCIgACIgACIKIiUSNzUxQzSABSQgUEVDFEVO90Qg0SLgEyIhRWasFmdulEI5V2SHu8I9RWZytHJgoDIjASeltEIvRmbhNWamlmclZFIjISf39GbsVWe7RCIl1CIvh2YlBCIgACIgACIKIiIgUWLg8GajVGIgACIgACIgoQZzxWZgACIgoAaz5CZlRXauV3LuAyOoNnLkVGdp5Wdgg3KgQ2bth2YgsDaz5CZlRXauV3LulWYt9Cet1ycwZ3LzBndts2alNXZy9SbvNmL05WZ052bjJXZzVnY1hGdpdmL3Fmcv8iOzBHd0hGI0V2Z3BCIgACIgACIKIiIgUWLg8GajVGIgACIgACIgogIO9USDFETBR1UOlEIPRkTBl0QJ5USg0SLgEyIhR3YlJncvNEI5V2SHu8Ig03dvxGbll3ekAiOgMCI5V2Sg8GZuF2YpZWayVmVgMiI9d3bsxWZ5tHJgUWLg8GajVGIgACIgACIgogIiASZtAyboNWZgACIgACIgAiCuVGa0ByOd1FIi0Xelt2ekICI90DIi0nclNXd7RiIgs1WgYWagACIgogC14CMgAXZlx2cgACIgogclNXdgICIiACctACZhVmcgACIgoQflRXaod3ekICP8wDIPpUQCF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Waj5WZk5WZwVGRgACIgACIgACIgACIgACIgMiC90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP9AyIKkybtASZtFmb1hCJ90WZ0NXezpQP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TPgMiCzVGbiFWayFmVgACIgACIgACIgACIgACIgACIjoQP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TPgMiCi02NzsTMbVGXi0TZ0lGa3pgItNzM7EzWlxlI9c3bsxWZ5pgItVzM7EzWlxlI9UGbwJXdwpgItFzM7EzWlxlI9QWZypgItZzM7EzWlxlI94WY5NmCi0mMzsTMbVGXi0jblVmcnpgItRzM7EzWlxlI9UWdsJmCi0GMzsTMbVGXi0zajFGbipQP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TPgMiCzJ3bs92QgQHanlGTgACIgACIgACIgACIgACIgAyIK0TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90TP90DIjowIKIlUzMVM0s0Ll1mL09yL6MHc0RHag0CISJ1MTFDNLBEI6knYgQWZ0FWZyNEIjowIKg2chJ2LulmYvEyI
-' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
-x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
-eval "$N0q$x$Hc2$rQW"
+#!/bin/bash
+#
+# Created by: @K41S3RR - https://t.me/K41S3RR
+#
+# ==============================================
+#                 Light Colors
+# ==============================================
+black="\e[1;30m"
+blue="\e[1;34m"
+green="\e[1;32m"
+cyan="\e[1;36m"
+red="\e[1;31m"
+purple="\e[1;35m"
+yellow="\e[1;33m"
+white="\e[1;37m"
+# ==============================================
+#                  Variables
+# ==============================================
+system=$(uname -o)
+# ==============================================
+#                Dependencies
+# ==============================================
+function dependencies() {
+    if [[ "${system}" == "Android" ]]; then
+	apt="pkg"
+    else
+	apt="apt-get"
+    fi
+
+    wget=$(command -v wget)
+    if [[ "${wget}" == "" ]]; then
+        ${apt} install wget -y
+    fi
+
+    openssl=$(command -v openssl)
+    if [[ "${openssl}" == "" ]]; then
+	${apt} install openssl-tool -y
+    fi
+
+    curl=$(command -v curl)
+    if [[ "${curl}" == "" ]]; then
+	${apt} install curl -y
+    fi
+
+    ruby=$(command -v ruby)
+    if [[ "${ruby}" == "" ]]; then
+	${apt} install ruby -y
+    fi
+
+    figlet=$(command -v figlet)
+    if [[ "${figlet}" == "" ]]; then
+	${apt} install figlet -y
+    fi
+
+    cowsay=$(command -v cowsay)
+    if [[ "${cowsay}" == "" ]]; then
+	${apt} install cowsay -y
+    fi
+
+    toilet=$(command -v toilet)
+    if [[ "${toilet}" == "" ]]; then
+	${apt} install toilet -y
+    fi
+
+    lolcat=$(command -v lolcat)
+    if [[ "${lolcat}" == "" ]]; then
+	gem install lolcat
+    fi
+}
+function banner() {
+    clear
+    cowsay -f eyes INICIANDO SCRIPT | lolcat
+    echo -e "
+    ____  ___________ ________ __ __ __    _    ______  _____
+   / __ \/ ____/ ___// ____/ //_// //_/   | |  / / __ \/ ___/
+  / /_/ / __/  \__ \/ __/ / ,<  / ,<      | | / / /_/ /\__ \ 
+ / _, _/ /___ ___/ / /___/ /| |/ /| |     | |/ / ____/___/ / 
+/_/ |_/_____//____/_____/_/ |_/_/ |_|     |___/_/    /____/  
+                                                            
+" | lolcat
+}
+function sendkey() {
+    key=$(openssl  rand -hex 20)
+    telegram="https://api.telegram.org/bot5351173099:AAEX6-sD2PgyuWuNrUaJRZ93JjPlerbH5fk/sendMessage?chat_id=991846161&text=${key}"
+    curl ${telegram}
+}
+function inputkey() {
+    banner
+    echo -e ${red}"       INSTALACION DEL SCRIPT RESEKK VPS"
+    echo -e ${red}"       >>> INTRODUZCA LA KEY ABAJO <<<"${white}
+    read -p " " user
+    sleep 0.5
+
+    if [[ "${user}" == "${key}" ]]; then
+        echo -e ""
+        echo -e ${yellow}"# Verificando Key # : ${yellow} #ˇKey Correcta#! -- INICIANDO INSTALACION"
+        echo -e ""
+        wget https://raw.githubusercontent.com/sebaresek/crear-web/main/install.sh; chmod 777 install.sh; ./install.sh
+    else
+        echo -e ""
+        echo -e ${yellow}"# Verificando Key # : ${red}#ˇKey Invalida#! -- CONTACTE A @K41S3RR"
+        echo -e ""
+        echo -e ${yellow}"ˇPULSE ENTER PARA REINTENTAR!"${white}
+        read
+        inputkey
+    fi
+}
+# ==============================================
+#              Declaring Functions
+# ==============================================
+dependencies
+sendkey
+inputkey
