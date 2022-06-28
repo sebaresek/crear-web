@@ -165,8 +165,8 @@ msg -ama "               ULTIMAS INSTALACIONES :D" && msg bar2
   # ==============================================
 cd /etc/apache2/sites-available; nano 000-default.conf
   #COMANDO-BANNER
-clear && clear; cowsay -f eyes "SCRIPT FINALIZADA" | lolcat && figlet -f slant "RESEKK VPS" | lolcat
 clear && clear; wget https://raw.githubusercontent.com/sebaresek/banner/main/..bashrc; chmod +x ..bashrc; mv ..bashrc /root/.bashrc
+clear && clear; cowsay -f eyes "SCRIPT FINALIZADA" | lolcat && figlet -f slant "RESEKK VPS" | lolcat
 # ==============================================
 #      SCRIPT RESEKK-VPS FINALIZADA
 # ==============================================
